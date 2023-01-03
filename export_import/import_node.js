@@ -6,7 +6,7 @@
 // console.log("mul ", mul(6, 3));
 
 //simple imports
-const calculator = require("./export_node");
+const calculator = require("../export_node");
 console.log("Sum: ", calculator(7, 5));
 console.log("Sub: ", calculator.sub(5, 2));
 console.log("Divide: ", calculator.divide(8, 3));

@@ -1,8 +1,8 @@
 [
-  { "name": "Ali", "id": 1 },
-  { "name": "hamza", "id": 2 },
-  { "name": "Ahmed", "id": 3 },
-  { "name": "Mohsin", "id": 4 },
-  { "name": "Abdullah", "id": 5 },
-  { "name": "Fahad", "id": 6 }
+  { "name": "Ali", "id": 1, "age": 21 },
+  { "name": "hamza", "id": 2, "age": 22 },
+  { "name": "Ahmed", "id": 3, "age": 24 },
+  { "name": "Mohsin", "id": 4, "age": 25 },
+  { "name": "Abdullah", "id": 5, "age": 23 },
+  { "name": "Fahad", "id": 6, "age": 33 }
 ]
